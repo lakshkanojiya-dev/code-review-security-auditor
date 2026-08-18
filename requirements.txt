@@ -1,0 +1,8 @@
+crewai
+crewai-tools
+chromadb
+streamlit
+langchain-community
+langchain-text-splitters
+python-dotenv
+openai
